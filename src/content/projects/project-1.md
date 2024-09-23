@@ -1,19 +1,19 @@
 ---
-title: 'Project 1'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: 'Altarune'
+description: 'In a world of magic, a talentless mage masters the machina! Play as Yan, the genius Arcaneer, and unleash the might of science and sorcery in this top-down, 3D tower-offense!'
 image:
-    url: '/GitHub.webp'
-    alt: 'GitHub wallpaper'
+    url: '/Altarune-title.png'
+    alt: 'Altarune Title'
 worksImage1:
-    url: '/image-1.webp'
-    alt: 'first image of your project.'
+    url: '/Altarune-game.png'
+    alt: 'Graphics demo'
 worksImage2:
-    url: '/image-2.webp'
-    alt: 'second image of your project.'
-platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+    url: '/Altarune-game-2.png'
+    alt: 'Combat Demo'
+platform: Unity
+stack: C#
+website: under development
+github: https://github.com/Carlijavier5/Altarune
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+Altarune is a top-down 3D game, developed using Unity and C# as a part of VgDev, the video game development club at Georgia Tech. As a member of the team, I contributed as an artist, 3D modeler, and designer to the game's enemies. This game is created with the help of a team of 50 students with different interests and concentrations and will be finished and demo-ed at the end of the Fall 2024 semester.

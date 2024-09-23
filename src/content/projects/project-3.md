@@ -1,19 +1,20 @@
 ---
-title: 'Project 3'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: 'Bonbon'
+description: 'Bonbon is a narratively driven sweets themed RPG, that follows a boy who wants to be a hero, and his sister who just wants to keep him safe.'
 image:
-    url: '/GitHub.webp'
+    url: '/Bonbon-logo.png'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/image-1.webp'
-    alt: 'first image of your project.'
+    url: '/Bonbon.png'
+    alt: 'Combat demo'
 worksImage2:
-    url: '/image-2.webp'
-    alt: 'second image of your project.'
-platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+    url: '/Bonbon-cutscene.png'
+    alt: 'Cutscene demo'
+platform: Unity
+stack: C#
+website: https://www.gtvgdev.com/games-archive/bonbon
+github: https://github.com/chrysly/project-bonbon
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+Bonbon is a 3D turn-based RPG themed around sweets developed using C# and Unity. I contributed as a concept artist and programmer for the user interface.
+Bonbon was accepted into Dreamhack at Atlanta, and won a SilVA-E Award for best art.

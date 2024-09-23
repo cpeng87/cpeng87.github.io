@@ -1,19 +1,19 @@
 ---
-title: 'Project 4'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: 'Magic & Mischief'
+description: 'Magic & Mischief is a relaxing- slice-of-life game about a witch discovering the magic in her everyday life!'
 image:
-    url: '/GitHub.webp'
-    alt: 'GitHub wallpaper'
+    url: '/Magic-and-mischief-title.png'
+    alt: 'Magic and Mischief Title'
 worksImage1:
-    url: '/image-1.webp'
-    alt: 'first image of your project.'
+    url: '/Magic-and-mischief-game.png'
+    alt: 'Gameplay demo'
 worksImage2:
-    url: '/image-2.webp'
-    alt: 'second image of your project.'
-platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+    url: '/Magic-and-mischief-dialogue.png'
+    alt: 'Dialogue demo'
+platform: Unity
+stack: C#
+website: under development
+github: https://github.com/cpeng87/Magic-and-Mischief
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+I am the sole developer, artist, designer, writer, and musician for this game. FOr this project, I used a prexisting tileset for the art, and added tiles for my own needs in the game. I have written the game architecture from scratch in Unity and designed and implemented the UI as well as each of the mechanics into the game through the use of C# scripts in Unity. I hope to be able to complete the game by the end of 2025 and to be able to present the game at Dreamhack Atlanta!

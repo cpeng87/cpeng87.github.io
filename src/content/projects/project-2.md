@@ -1,19 +1,19 @@
 ---
-title: 'Project 2'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: 'Back to Bassics'
+description: '​Make colors fly as you fight to the beat in this action rhythm game! Traverse the island, meet new Paper pals, and bring the island Back to Bassics!'
 image:
-    url: '/GitHub.webp'
-    alt: 'GitHub wallpaper'
+    url: '/Back-to-bassics-title.png'
+    alt: 'Back to Bassics Title'
 worksImage1:
     url: '/image-1.webp'
     alt: 'first image of your project.'
 worksImage2:
     url: '/image-2.webp'
     alt: 'second image of your project.'
-platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
+platform: Unity
+stack: C#
+website: under development
 github: https://github.com/ttomczak3/Milky-Way
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+Back to Bassics is a 3D rhythm game, developed using Unity and C# as a part of VgDev, the video game development club at Georgia Tech. As a member of the team, I contributed as an concept artist for the game's enemies and NPCs. This game is created with the help of a team of 25 students with different interests and concentrations and will be finished and demo-ed at the end of the Fall 2024 semester.
