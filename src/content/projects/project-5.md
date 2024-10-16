@@ -5,15 +5,15 @@ image:
     url: '/Mush-rush-title.png'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/Mush-rush-game.png'
-    alt: 'first image of your project.'
+    url: '/Mush-rush-title.png'
+    alt: 'Title Screen'
 worksImage2:
-    url: '/image-2.webp'
-    alt: 'second image of your project.'
+    url: '/Mush-rush-game.png'
+    alt: 'Gameplay'
 platform: Pygame
 stack: Python
 website: https://cpeng8.itch.io/mush-rush
 github: https://github.com/cpeng87/mushRush
 ---
 
-df
+For Mush Rush, I am the sole developer of the game, in charge of design, programming, and art. It was started as a summer project and a way for me to learn and familiarize myself with Python as well as Pygame. It served as my first project in game development, as well as art for game development. It also served as my first introduction to using Git and Github!

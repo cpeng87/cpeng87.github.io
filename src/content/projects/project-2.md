@@ -5,11 +5,11 @@ image:
     url: '/Back-to-bassics-title.png'
     alt: 'Back to Bassics Title'
 worksImage1:
-    url: '/image-1.webp'
-    alt: 'first image of your project.'
+    url: '/Back-to-bassics-title1.png'
+    alt: 'Title Screen'
 worksImage2:
-    url: '/image-2.webp'
-    alt: 'second image of your project.'
+    url: '/Back-to-bassics-game.png'
+    alt: 'Gameplay'
 platform: Unity
 stack: C#
 website: under development

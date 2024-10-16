@@ -8,7 +8,7 @@ worksImage1:
     url: '/Willow-game.png'
     alt: 'Combat demo'
 worksImage2:
-    url: '/Willow-dialogue'
+    url: '/Willow-dialogue.png'
     alt: 'Dialogue demo'
 platform: Unity
 stack: C#
